@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test1",
+    "description": "",
+    "home_page_url": "https://abgoyal.github.io/publii_test",
+    "feed_url": "https://abgoyal.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abhishek"
+    },
+    "items": [
+    ]
+}
