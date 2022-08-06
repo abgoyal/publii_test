@@ -3,7 +3,7 @@
     <title>Hi Notes</title>
     <link href="https://abgoyal.github.io/publii_test/feed.xml" rel="self" />
     <link href="https://abgoyal.github.io/publii_test" />
-    <updated>2022-08-06T16:09:54+05:30</updated>
+    <updated>2022-08-06T16:25:53+05:30</updated>
     <author>
         <name>Abhishek Goyal</name>
     </author>
@@ -17,8 +17,16 @@
         <link href="https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html"/>
         <id>https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html</id>
 
-        <updated>2022-08-06T16:09:54+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-08-06T16:25:53+05:30</updated>
+            <summary>
+                <![CDATA[
+                    If you have recently tried 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you have recently tried </p>
+            ]]>
+        </content>
     </entry>
 </feed>

@@ -13,13 +13,15 @@
             "id": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
             "url": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
             "title": "Kubernetes, Helm, Ansible, Terraform, oh my",
+            "summary": "If you have recently tried ",
+            "content_html": "<p>If you have recently tried </p>",
             "author": {
                 "name": "Abhishek Goyal"
             },
             "tags": [
             ],
             "date_published": "2022-08-06T16:09:54+05:30",
-            "date_modified": "2022-08-06T16:09:54+05:30"
+            "date_modified": "2022-08-06T16:25:53+05:30"
         }
     ]
 }
