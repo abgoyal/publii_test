@@ -1,13 +1,25 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test1",
+    "title": "Hi Notes",
     "description": "",
     "home_page_url": "https://abgoyal.github.io/publii_test",
     "feed_url": "https://abgoyal.github.io/publii_test/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Abhishek"
+        "name": "Abhishek Goyal"
     },
     "items": [
+        {
+            "id": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
+            "url": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
+            "title": "Kubernetes, Helm, Ansible, Terraform, oh my",
+            "author": {
+                "name": "Abhishek Goyal"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-06T16:09:54+05:30",
+            "date_modified": "2022-08-06T16:09:54+05:30"
+        }
     ]
 }
