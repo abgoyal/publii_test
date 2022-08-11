@@ -13,15 +13,15 @@
             "id": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
             "url": "https://abgoyal.github.io/publii_test/kubernetes-helm-ansible-terraform-oh-my.html",
             "title": "Kubernetes, Helm, Ansible, Terraform, oh my",
-            "summary": "If you have recently tried ",
-            "content_html": "<p>If you have recently tried </p>",
+            "summary": "If you have recently tried to deploy code to your (cloud hosted) infrastrcture, you may have run into the following&hellip;",
+            "content_html": "<p>If you have recently tried to deploy code to your (cloud hosted) infrastrcture, you may have run into the following issues:</p>\n<ul>\n<li>issue 1</li>\n<li>issue 2</li>\n<li>issue 3</li>\n<li> </li>\n</ul>",
             "author": {
                 "name": "Abhishek Goyal"
             },
             "tags": [
             ],
             "date_published": "2022-08-06T16:09:54+05:30",
-            "date_modified": "2022-08-06T16:25:53+05:30"
+            "date_modified": "2022-08-11T13:01:46+05:30"
         }
     ]
 }
